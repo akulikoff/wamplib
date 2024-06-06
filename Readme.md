@@ -10,20 +10,13 @@ Ensure you have the following software installed:
 
 ## Setup
 
-1. **Clone the repository**
+**Install dependencies**
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
+Navigate to the project directory and run:
 
-2. **Install dependencies**
-
-   Navigate to the project directory and run:
-
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 ## Build
 

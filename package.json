@@ -1,0 +1,18 @@
+{
+  "name": "wamp",
+  "version": "1.0.0",
+  "description": "Ensure you have the following software installed:",
+  "main": "main.js",
+  "dependencies": {
+    "undici-types": "^5.26.5",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.10"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
