@@ -33,5 +33,5 @@ This will use the configuration defined in `tsconfig.json`.
 Execute the main JavaScript file:
 
 ```bash
-node main.js
+node build/main.js
 ```
